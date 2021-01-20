@@ -26,6 +26,7 @@ npm run server
 ```
 Do all steps above.
 Visit the following address: https://task-tracker1.netlify.app/
+```
 
 ### To build for production
 
