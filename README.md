@@ -1,5 +1,5 @@
 # Task Tracker
-This app is built with React. The mock back-end is done by JSON-server. See it on Netlify: https://tasktraker1.netlify.app/
+This app is built with React. The mock back-end is done by JSON-server.
 
 ## Usage
 
@@ -21,8 +21,16 @@ npm start
 npm run server
 ```
 
+### To run this app on Netlify
+
+```
+Do all steps above.
+Visit this address: https://tasktraker1.netlify.app/
+```
+
 ### To build for production
 
 ```
 npm run build
 ```
+
