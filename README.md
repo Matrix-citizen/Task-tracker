@@ -21,11 +21,11 @@ npm start
 npm run server
 ```
 
-### To run this app on Netlify
+### To run this app on Netlify (https://tasktraker1.netlify.app/)
 
 ```
 Do all steps above.
-Visit this address: (https://tasktraker1.netlify.app/)
+Visit this address: https://tasktraker1.netlify.app/
 ```
 
 ### To build for production
