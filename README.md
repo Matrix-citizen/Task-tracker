@@ -25,7 +25,7 @@ npm run server
 
 ```
 Do all steps above.
-Visit this address: https://tasktraker1.netlify.app/
+Visit this address: (https://tasktraker1.netlify.app/)
 ```
 
 ### To build for production
