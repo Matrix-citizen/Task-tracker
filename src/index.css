@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
 
 * {
   box-sizing: border-box;
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .container {
@@ -15,9 +15,11 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  background-color: rgb(172, 245, 220);
   padding: 30px;
-  border-radius: 5px;
+  border-radius: 25px;
+  background: #71ccd7;
+  box-shadow: inset -14px -14px 28px #4c8990, inset 14px 14px 28px #96ffff;
 }
 
 .header {
@@ -55,10 +57,12 @@ body {
 }
 
 .task {
-  background: #f4f4f4;
   margin: 5px;
   padding: 10px 20px;
   cursor: pointer;
+  border-radius: 15px;
+  background: #f4f4f4;
+  box-shadow: inset -14px -14px 28px #a3a3a3, inset 14px 14px 28px #ffffff;
 }
 
 .task.reminder {
